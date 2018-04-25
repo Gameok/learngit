@@ -1,2 +1,2 @@
-t is a version control system.
+on control system.
 Git is free software.
